@@ -1,0 +1,3 @@
+-Jetpack Compose
+-MVI architecture
+-Rest Api
